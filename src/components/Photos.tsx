@@ -8,7 +8,7 @@ const photos = [
   "/photos/photo_2026-03-19_23-13-24.jpg",
   "/photos/photo_2026-03-19_23-13-28.jpg",
   "/photos/photo_2026-03-19_23-13-30.jpg",
-  "/photos/photo_2026-03-19_23-13-32.jpg",
+  "/photos/photo_2026-03-19_23-20-40.jpg",
   "/photos/photo_2026-03-19_23-13-37.jpg",
   "/photos/photo_2026-03-19_23-13-39.jpg",
 ];
