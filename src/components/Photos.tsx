@@ -5,12 +5,12 @@ import Image from "next/image";
 import { useState } from "react";
 
 const photos = [
-  "/photos/photo1.jpg",
-  "/photos/photo2.jpg",
-  "/photos/photo3.jpg",
-  "/photos/photo4.jpg",
-  "/photos/photo5.jpg",
-  "/photos/photo6.jpg",
+  "/photos/photo_2026-03-19_23-13-24.jpg",
+  "/photos/photo_2026-03-19_23-13-28.jpg",
+  "/photos/photo_2026-03-19_23-13-30.jpg",
+  "/photos/photo_2026-03-19_23-13-32.jpg",
+  "/photos/photo_2026-03-19_23-13-37.jpg",
+  "/photos/photo_2026-03-19_23-13-39.jpg",
 ];
 
 export default function Photos() {
